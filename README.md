@@ -27,14 +27,7 @@ I build systems that bridge the gap between pixels and words. Currently diving d
 
 ### 🔭 Currently Working On
 * **CLIP from Scratch:** Re-implementing OpenAI's CLIP with custom ViT and Text Transformer backbones.
-* **Multimodal Alignment:** Exploring InfoNCE loss and symmetric contrastive learning for image-text retrieval.
-* **VLM Fine-tuning:** Experimenting with LoRA adapters for generative vision-language tasks.
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasserbhb&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasserbhb&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+* **Neural Librarian (DL):** Context-aware RAG system for Deep Learning books. Features semantic book indexing, retrieval-augmented Q&A, and interactive study mode.
 ---
 
 ### 📫 Let's Connect
