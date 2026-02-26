@@ -1,6 +1,6 @@
 # Hi there, I'm Yasser👋 
 
-🚀 Machine Learning Engineer in the making 
+🚀 Aspiring Machine Learning Engineer 
 I build systems that connect vision and language. Currently focusing on Multimodal Learning and contrastive alignment.
 
 ---
