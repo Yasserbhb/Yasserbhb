@@ -31,11 +31,10 @@ I build systems that bridge the gap between pixels and words. Currently diving d
 * **VLM Fine-tuning:** Experimenting with LoRA adapters for generative vision-language tasks.
 
 ### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Yasserbhb&show_icons=true&theme=tokyonight" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasserbhb&layout=compact&theme=tokyonight" alt="Top Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yasserbhb&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasserbhb&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
-
 ---
 
 ### 📫 Let's Connect
