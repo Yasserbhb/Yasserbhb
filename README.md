@@ -32,8 +32,8 @@ I build systems that bridge the gap between pixels and words. Currently diving d
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yasserbhb&show_icons=true&theme=tokyonight" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasserbhb&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
