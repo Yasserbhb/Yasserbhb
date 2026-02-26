@@ -32,5 +32,6 @@ I build systems that connect vision and language. Currently focusing on Multimod
 
 ### 📫 Let's Connect
 * **LinkedIn:** [Yasser-BOUHAI](https://www.linkedin.com/in/yasser-bouha%C3%AF-555b31214/)
+* **Email:** yasserbouhai@gmail.com
   
 *"The goal is not to study AI, but to build things that force you to understand it."*
