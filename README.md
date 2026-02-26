@@ -30,7 +30,7 @@ I build systems that connect vision and language. Currently focusing on Multimod
 * **Neural Librarian (DL):** Context-aware RAG system for Deep Learning books. Features semantic book indexing, retrieval-augmented Q&A, and interactive study mode.
 ---
 
-### 📫 Let's Connect
+### 📫 Contact Me
 * **LinkedIn:** [Yasser-BOUHAI](https://www.linkedin.com/in/yasser-bouha%C3%AF-555b31214/)
 * **Email:** yasserbouhai@gmail.com
   
