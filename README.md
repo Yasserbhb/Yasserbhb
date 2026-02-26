@@ -1,7 +1,7 @@
 # Hi there, I'm Yasser👋 
 
-### 🚀 Machine Learning Engineer | VLM Specialist in Training
-I build systems that bridge the gap between pixels and words. Currently diving deep into **Vision-Language Models (VLMs)**, focusing on contrastive learning and multimodal alignment.
+🚀 Machine Learning Engineer in the making 
+I build systems that connect vision and language. Currently focusing on Multimodal Learning and contrastive alignment.
 
 ---
 
