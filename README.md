@@ -39,5 +39,4 @@ I build systems that bridge the gap between pixels and words. Currently diving d
 
 ### 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yasser-bouha%C3%AF-555b31214/)
-<> * **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 *"The goal is not to study AI, but to build things that force you to understand it."*
