@@ -1,11 +1,11 @@
-# Hi there, I'm Yasser👋 
+# Hi there, I'm Yasser 
 
-🚀 Aspiring Machine Learning Engineer 
+Aspiring Machine Learning Engineer 
 I build systems that connect vision and language. Currently focusing on Multimodal Learning and contrastive alignment.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Core AI & Deep Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -25,12 +25,12 @@ I build systems that connect vision and language. Currently focusing on Multimod
 
 ---
 
-### 🔭 Currently Working On
+### Currently Working On
 * **CLIP from Scratch:** Re-implementing OpenAI's CLIP with custom ViT and Text Transformer backbones.
 * **Neural Librarian (DL):** Context-aware RAG system for Deep Learning books. Features semantic book indexing, retrieval-augmented Q&A, and interactive study mode.
 ---
 
-### 📫 Contact Me
+### Contact Me
 * **LinkedIn:** [Yasser-BOUHAI](https://www.linkedin.com/in/yasser-bouha%C3%AF-555b31214/)
 * **Email:** yasserbouhai@gmail.com
   
