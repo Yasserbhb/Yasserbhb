@@ -27,7 +27,7 @@ I build systems that connect vision and language. Currently focusing on Multimod
 
 ### Currently Working On
 * **CLIP from Scratch:** Re-implementing OpenAI's CLIP with custom ViT and Text Transformer backbones.
-* **Neural Librarian (DL):** Context-aware RAG system for Deep Learning books. Features semantic book indexing, retrieval-augmented Q&A, and interactive study mode.
+* **Study Buddy (DL):** Context-aware RAG system for Deep Learning books. Features semantic book indexing, retrieval-augmented Q&A, and interactive study mode.
 ---
 
 ### Contact Me
