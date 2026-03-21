@@ -1,7 +1,7 @@
-# Hi there, I'm Yasser 
-
-Aspiring Machine Learning Engineer 
-I build systems that connect vision and language. Currently focusing on Multimodal Learning and contrastive alignment.
+# Hi there, I'm Yasser
+Passionate about Machine Learning Research
+I build and re-implement deep learning systems from scratch to understand them deeply.
+Currently focusing on Multimodal Learning and contrastive representation learning.
 
 ---
 
@@ -15,7 +15,7 @@ I build systems that connect vision and language. Currently focusing on Multimod
 
 **Data Engineering & Analytics**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
 
 **Backend & Systems**
@@ -26,12 +26,14 @@ I build systems that connect vision and language. Currently focusing on Multimod
 ---
 
 ### Currently Working On
-* **CLIP from Scratch:** Re-implementing OpenAI's CLIP with custom ViT and Text Transformer backbones.
-* **Study Buddy (DL):** Context-aware RAG system for Deep Learning books. Features semantic book indexing, retrieval-augmented Q&A, and interactive study mode.
+* **CLIP from Scratch:** Re-implementing OpenAI's CLIP with custom 
+ViT and Text Transformer backbones for multimodal contrastive learning.
+
 ---
 
 ### Contact Me
 * **LinkedIn:** [Yasser-BOUHAI](https://www.linkedin.com/in/yasser-bouha%C3%AF-555b31214/)
 * **Email:** yasserbouhai@gmail.com
-  
-*"The goal is not to study AI, but to build things that force you to understand it."*
+
+*"The goal is not to study AI, but to build things that force you 
+to understand it."*
